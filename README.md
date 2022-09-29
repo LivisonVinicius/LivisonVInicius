@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LivisonVinicius?tab=repositories](https://github.com/LivisonVinicius?tab=repositories)
 
-- ⚡ Fun fact [It's impossible to talk to me without making you laugh](It's impossible to talk to me without making you laugh)
+- ⚡ Fun fact [It's impossible to talk to me without making you laugh]
 
 - 📫 How to reach me **livisongc@gmail.com**
 
