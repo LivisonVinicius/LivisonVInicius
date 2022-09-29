@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![giphy](https://user-images.githubusercontent.com/102634722/192950101-d2000c23-0e21-49cb-8366-9c2de6307df6.gif)
+![giphy (1)](https://user-images.githubusercontent.com/102634722/192950665-8647ec11-3ec9-4f2e-97ea-b39a23ccf616.gif)
   
 </div>
 
