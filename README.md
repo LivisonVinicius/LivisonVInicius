@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **livisongc@gmail.com**
 
-- LinkedIn [https://www.linkedin.com/in/livison-vin%C3%ADcius-048056239/](https://www.linkedin.com/in/livison-vin%C3%ADcius-048056239/)
+- LinkedIn [https://www.linkedin.com/in/livison-vin%C3%ADcius/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
