@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Livison</h1>
 
-<div align="center" width="200px" height="200px">
+<div align="center" style="width:200px height:200px">
   
 ![giphy (1)](https://user-images.githubusercontent.com/102634722/192950665-8647ec11-3ec9-4f2e-97ea-b39a23ccf616.gif)
   
