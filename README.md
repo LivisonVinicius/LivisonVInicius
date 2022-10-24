@@ -6,7 +6,7 @@
   
 </div>
 
-<h3 align="center">A carismatic full stack developer from Rio de Janeiro</h3>
+<h3 align="center">A carismatic full stack DEV from Rio de Janeiro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livisonvinicius&label=Profile%20views&color=0e75b6&style=flat" alt="livisonvinicius" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Health Lab](https://github.com/LivisonVinicius/healthLab-front). HealtLab is a hospital app focused on patient consultation flows.
 
-- 🌱 I’m currently studying on **Driven Education**
+- 🌱 WEB developer formed by the Driven Education bootcamp.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LivisonVinicius?tab=repositories](https://github.com/LivisonVinicius?tab=repositories)
 
