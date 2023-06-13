@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livisonvinicius" alt="livisonvinicius" /></a> </p>
 
-- 🔭 I’m currently working on [Health Lab](https://github.com/LivisonVinicius/healthLab-front). HealtLab is a hospital app focused on patient consultation flows.
+- 🔭 I’m currently working on Arkama.
 
 - 🌱 WEB developer formed by the Driven Education bootcamp.
 
