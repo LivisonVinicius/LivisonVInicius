@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livisonvinicius" alt="livisonvinicius" /></a> </p>
 
-- 🔭 I’m currently working on Maia health tech.
+- 🔭 I’m currently looking for new tech oportunities.
 
 - 🌱 WEB developer formed by the Driven Education bootcamp.
 
